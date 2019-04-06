@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Tri Afrizal Hilmi",
-    "label": "Mentor PayTren",
+    "label": "Mentor PayTren | TN0111923",
     "picture": "https://raw.githubusercontent.com/adminpaytren/PayTren-Indramayu/master/images/mentor-paytren.jpg",
     "email": "",
     "phone": "6282320067466",
     "website": "https://mentorpaytrenjabar.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "Selamat datang di web support Mentor PayTren. Di halaman ini Anda akan mengetahui bagaimana cara daftar PayTren terbaru secara online, resmi, cepat dan langsung aktif.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "45258",
+      "city": "Indramayu",
+      "countryCode": "ID",
+      "region": "Jawa Barat"
     },
     "profiles": [
       {
@@ -39,19 +39,18 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Digital Marketing",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "PayTren",
       ]
     },
     {
-      "name": "data mining",
+      "name": "Teaching",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Coding",
       "keywords": [
       ]
     }
